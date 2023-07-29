@@ -1,0 +1,74 @@
+I:\trading\trading\obj\Debug\net6.0-windows\trading.csproj.AssemblyReference.cache
+I:\trading\trading\obj\Debug\net6.0-windows\trading.DASHBOARD.resources
+I:\trading\trading\obj\Debug\net6.0-windows\trading.csproj.GenerateResource.cache
+I:\trading\trading\obj\Debug\net6.0-windows\trading.GeneratedMSBuildEditorConfig.editorconfig
+I:\trading\trading\obj\Debug\net6.0-windows\trading.AssemblyInfoInputs.cache
+I:\trading\trading\obj\Debug\net6.0-windows\trading.AssemblyInfo.cs
+I:\trading\trading\obj\Debug\net6.0-windows\trading.csproj.CoreCompileInputs.cache
+I:\trading\trading\bin\Debug\net6.0-windows\trading.exe
+I:\trading\trading\bin\Debug\net6.0-windows\trading.deps.json
+I:\trading\trading\bin\Debug\net6.0-windows\trading.runtimeconfig.json
+I:\trading\trading\bin\Debug\net6.0-windows\trading.dll
+I:\trading\trading\bin\Debug\net6.0-windows\trading.pdb
+I:\trading\trading\bin\Debug\net6.0-windows\Dapper.dll
+I:\trading\trading\bin\Debug\net6.0-windows\Npgsql.dll
+I:\trading\trading\obj\Debug\net6.0-windows\trading.csproj.CopyComplete
+I:\trading\trading\obj\Debug\net6.0-windows\trading.dll
+I:\trading\trading\obj\Debug\net6.0-windows\refint\trading.dll
+I:\trading\trading\obj\Debug\net6.0-windows\trading.pdb
+I:\trading\trading\obj\Debug\net6.0-windows\trading.genruntimeconfig.cache
+I:\trading\trading\obj\Debug\net6.0-windows\ref\trading.dll
+I:\trading\trading\obj\Debug\net6.0-windows\trading.Properties.Resources.resources
+I:\trading\trading\bin\Debug\net6.0-windows\BCrypt.Net-Next.dll
+I:\trading\trading\obj\Debug\net6.0-windows\trading.PurchaeForm.resources
+I:\trading\trading\obj\Debug\net6.0-windows\trading.stockEntry.resources
+I:\trading\trading\obj\Debug\net6.0-windows\trading.Stocksales.resources
+I:\trading\trading\obj\Debug\net6.0-windows\trading.UserDashboard.resources
+I:\trading\trading\obj\Debug\net6.0-windows\trading.PurchaseDetails.resources
+I:\trading\trading\obj\Debug\net6.0-windows\trading.LoginForm.resources
+I:\trading\trading\obj\Debug\net6.0-windows\trading.UpdateRate.resources
+I:\trading\trading\obj\Debug\net6.0-windows\trading.SalesDetails.resources
+I:\trading\trading\obj\Debug\net6.0-windows\trading.MyDetails.resources
+I:\trading\trading\obj\Debug\net6.0-windows\trading.TotalStock.resources
+I:\trading\trading\obj\Debug\net6.0-windows\trading.AllUserDetail.resources
+I:\trading\trading\obj\Debug\net6.0-windows\trading.Registration.resources
+I:\trading\trading\obj\Debug\net6.0-windows\trading.StockList.resources
+I:\trading\trading\obj\Debug\net6.0-windows\trading.Login.ResetPassword.resources
+I:\trading\trading\obj\Debug\net6.0-windows\trading.Login.SignUp.resources
+H:\Project 4th sem\trading\trading\bin\Debug\net6.0-windows\trading.exe
+H:\Project 4th sem\trading\trading\bin\Debug\net6.0-windows\trading.deps.json
+H:\Project 4th sem\trading\trading\bin\Debug\net6.0-windows\trading.runtimeconfig.json
+H:\Project 4th sem\trading\trading\bin\Debug\net6.0-windows\trading.dll
+H:\Project 4th sem\trading\trading\bin\Debug\net6.0-windows\trading.pdb
+H:\Project 4th sem\trading\trading\bin\Debug\net6.0-windows\BCrypt.Net-Next.dll
+H:\Project 4th sem\trading\trading\bin\Debug\net6.0-windows\Dapper.dll
+H:\Project 4th sem\trading\trading\bin\Debug\net6.0-windows\Npgsql.dll
+H:\Project 4th sem\trading\trading\obj\Debug\net6.0-windows\trading.csproj.AssemblyReference.cache
+H:\Project 4th sem\trading\trading\obj\Debug\net6.0-windows\trading.DASHBOARD.resources
+H:\Project 4th sem\trading\trading\obj\Debug\net6.0-windows\trading.LoginForm.resources
+H:\Project 4th sem\trading\trading\obj\Debug\net6.0-windows\trading.Login.SignUp.resources
+H:\Project 4th sem\trading\trading\obj\Debug\net6.0-windows\trading.UserDashboard.resources
+H:\Project 4th sem\trading\trading\obj\Debug\net6.0-windows\trading.Properties.Resources.resources
+H:\Project 4th sem\trading\trading\obj\Debug\net6.0-windows\trading.PurchaeForm.resources
+H:\Project 4th sem\trading\trading\obj\Debug\net6.0-windows\trading.stockEntry.resources
+H:\Project 4th sem\trading\trading\obj\Debug\net6.0-windows\trading.Stocksales.resources
+H:\Project 4th sem\trading\trading\obj\Debug\net6.0-windows\trading.UpdateRate.resources
+H:\Project 4th sem\trading\trading\obj\Debug\net6.0-windows\trading.AllUserDetail.resources
+H:\Project 4th sem\trading\trading\obj\Debug\net6.0-windows\trading.MyDetails.resources
+H:\Project 4th sem\trading\trading\obj\Debug\net6.0-windows\trading.Registration.resources
+H:\Project 4th sem\trading\trading\obj\Debug\net6.0-windows\trading.Login.ResetPassword.resources
+H:\Project 4th sem\trading\trading\obj\Debug\net6.0-windows\trading.PurchaseDetails.resources
+H:\Project 4th sem\trading\trading\obj\Debug\net6.0-windows\trading.SalesDetails.resources
+H:\Project 4th sem\trading\trading\obj\Debug\net6.0-windows\trading.StockList.resources
+H:\Project 4th sem\trading\trading\obj\Debug\net6.0-windows\trading.TotalStock.resources
+H:\Project 4th sem\trading\trading\obj\Debug\net6.0-windows\trading.csproj.GenerateResource.cache
+H:\Project 4th sem\trading\trading\obj\Debug\net6.0-windows\trading.GeneratedMSBuildEditorConfig.editorconfig
+H:\Project 4th sem\trading\trading\obj\Debug\net6.0-windows\trading.AssemblyInfoInputs.cache
+H:\Project 4th sem\trading\trading\obj\Debug\net6.0-windows\trading.AssemblyInfo.cs
+H:\Project 4th sem\trading\trading\obj\Debug\net6.0-windows\trading.csproj.CoreCompileInputs.cache
+H:\Project 4th sem\trading\trading\obj\Debug\net6.0-windows\trading.csproj.CopyComplete
+H:\Project 4th sem\trading\trading\obj\Debug\net6.0-windows\trading.dll
+H:\Project 4th sem\trading\trading\obj\Debug\net6.0-windows\refint\trading.dll
+H:\Project 4th sem\trading\trading\obj\Debug\net6.0-windows\trading.pdb
+H:\Project 4th sem\trading\trading\obj\Debug\net6.0-windows\trading.genruntimeconfig.cache
+H:\Project 4th sem\trading\trading\obj\Debug\net6.0-windows\ref\trading.dll

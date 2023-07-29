@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Login\DASHBOARD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login\SignUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User\ResetPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User\AllUserDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User\MyDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TransactionForm\PurchaeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewReports\PurchaseDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewReports\SalesDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TransactionForm\stockEntry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewReports\StockList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TransactionForm\Stocksales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewReports\TotalStock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TransactionForm\UpdateRate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login\UserDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User\Registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

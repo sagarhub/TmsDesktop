@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "LhysFH14sLjj3pMp0RjezNqmbUk5lxgauWgMlw1iGiiYra6UbVYnjoHLptVMwOcOaikbXsQxpMOxtIMD/lVIyw==",
+  "success": true,
+  "projectFilePath": "H:\\Project 4th sem\\trading\\trading\\trading.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bhand\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
+    "C:\\Users\\bhand\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\bhand\\.nuget\\packages\\npgsql\\6.0.6\\npgsql.6.0.6.nupkg.sha512",
+    "C:\\Users\\bhand\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
